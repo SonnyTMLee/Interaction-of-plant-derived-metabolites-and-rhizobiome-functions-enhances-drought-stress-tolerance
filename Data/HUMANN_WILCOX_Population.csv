@@ -1,0 +1,5 @@
+"Metabolite","Group1","Group2","P_Value","Higher_Group"
+"Path341","DES","CDB",0.025974025974026,"DES"
+"Path341","FUL","CDB",0.012987012987013,"FUL"
+"Path434","DES","CDB",0.0454545454545455,"DES"
+"Path434","FUL","CDB",0.0454545454545455,"FUL"
